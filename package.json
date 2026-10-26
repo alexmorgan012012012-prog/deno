@@ -1,0 +1,9 @@
+{
+  "name": "ryvo-digital-agency-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix ryvo run dev",
+    "build": "npm --prefix ryvo run build",
+    "preview": "npm --prefix ryvo run preview"
+  }
+}
